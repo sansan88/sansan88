@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sansan88
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sansan88/sansan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sandro Scalco
+- 👀 I’m interested in SSI, OSS, SAP, Ionic, Angular, RaspberryPi
+- 🌱 I’m currently learning RXJS and Angular
+- 💞️ I’m looking to collaborate on my petproject
+- 📫 How to reach me: Twitter -> @saandr0o or LinkedIn
