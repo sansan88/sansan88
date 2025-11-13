@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Sandro Scalco
-- 👀 I’m interested in SSI, OSS, SAP, Ionic, Angular, RaspberryPi
-- 🌱 I’m currently learning RXJS and Angular
-- 💞️ I’m looking to collaborate on my petproject
-- 📫 How to reach me: Twitter -> @saandr0o or LinkedIn
+👋 Hi, I’m Sandro Scalco
