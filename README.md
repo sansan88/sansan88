@@ -31,6 +31,7 @@ I'm passionate about building digital solutions that empower communities and str
 ## 💡 Personal Projects
 
 - [miitmi](https://github.com/sansan88/miitmi) - Volunteer platform connecting emergency aid for at-risk groups
+- [flightradar24](https://github.com/sansan88/flightradar24) - Track aircrafts with Raspberry Pi 4 and display on 32x32 LED matrix
 - [Personal Website](https://github.com/sansan88/sandro-scalco-personal-website) - Built with React, TypeScript, Vite, Tailwind CSS & Supabase
 
 ## 🔗 Connect
